@@ -50,7 +50,10 @@ Still it improved a lot of initial load time and memory consumption.
 **What I Tried To Change Cache Key Of Spatie Dynamically**
 
 I tried to setup unique cache key on ```boot()``` method of **AppServiceProvider** using function
-```config(['key' => 'value'])```  which seems to change the config file but does not seems to work as expeced.
+```php
+config(['key' => 'value'])
+``` 
+which seems to change the config file but does not seems to work as expeced.
 
 
 **What Is Working But Is Yet To Implement**
