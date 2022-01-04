@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Cache Can Slow You Down"
+title:  "How cache can slow you down"
 date:   2021-12-20 23:01:57 +0545
 categories: how cache can slow you
 ---
@@ -19,11 +19,6 @@ One thing I noticed was high consumption of memory. Every Rerquest was consuming
 
 I knew it is very high consumption even our app has lots of data to be loaded per request.
 
-<!-- 
-**What was actually happening**
-
-We are using spatie roles and permission packages for managing our roles and permission.
-Basically spatie roles and permission caches all the data of roles and permission for all the company available in our database. -->
 
 **What Went Wrong**
 

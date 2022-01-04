@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "hosting with github page using jekyll"
-date:   2021-12-30 20:42:57 +0545
+title:  "Hosting with github page using jekyll"
+date:   2022-01-07 20:42:57 +0545
 categories: how to host using jekyll to github page
 ---
 
@@ -41,13 +41,11 @@ If you do not have a github account create it by going to [Github](https://githu
 
 Then create a new repository by clicking the new button on the dashboard.
 
+![Create Repository Button](/images/create-repo-button.png)
 
+Put your username.github.io as the repository name, make it public and press create.
 
-
-
-put your username.github.io as the repository name, make it public and press create.
-
-
+![Create Repository Button](/images/repo-name.png)
 
 After creating the repository you have to push the jekyll in your local machine to the git repository.
 

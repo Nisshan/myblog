@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "How to order string column in mysql as integer"
-date:   2021-12-20 23:01:57 +0545
-categories: how cache can slow you
+date:   2022-01-3 23:01:57 +0545
+categories: cast string to integer in laravel
 ---
 
 # How to cast mysql string into integer type while ordering in laravel.
